@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+openai
+transformers
+torch
+torchaudio
+librosa
+soundfile
+pyannote.audio
+whisperx      # optional later; pip install git+https://github.com/m-bain/whisperX.git
+pytest
+httpx
+pytest-asyncio
